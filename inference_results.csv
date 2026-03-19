@@ -1,0 +1,151 @@
+id,category,topic,difficulty,image,question,expected,predicted,raw_output,correct
+N-01,normal,people,easy,000000397133.jpg,Is there a person in this image?,yes,yes,question: is there a person in this image? answer: yes,True
+N-02,normal,indoor,easy,000000037777.jpg,Is there a table in this image?,yes,yes,"question: is there a table in this image? answer: yes, there is a table in this image",True
+N-03,normal,people,easy,000000252219.jpg,Is there a person walking in this image?,yes,yes,question: is there a person walking in this image? answer: yes,True
+N-04,normal,outdoor,easy,000000087038.jpg,Is this an outdoor recreational area?,yes,yes,question: is this an outdoor recreational area? answer: yes,True
+N-05,normal,vehicles,easy,000000174482.jpg,Is there a bicycle in this image?,yes,yes,question: is there a bicycle in this image? answer: yes,True
+N-06,normal,indoor,easy,000000403385.jpg,Is this a bathroom?,yes,yes,question: is this a bathroom? answer: yes,True
+N-07,normal,indoor,easy,000000006818.jpg,Is there a toilet in this image?,yes,yes,question: is there a toilet in this image? answer: yes,True
+N-08,normal,vehicles,easy,000000480985.jpg,Is there a motorcycle in this image?,yes,yes,question: is there a motorcycle in this image? answer: yes,True
+N-09,normal,indoor,easy,000000458054.jpg,Are there multiple toilets in this image?,yes,yes,question: are there multiple toilets in this image? answer: yes,True
+N-10,normal,vehicles,easy,000000017627.jpg,Are there cars in this image?,yes,yes,question: are there cars in this image? answer: yes,True
+N-11,normal,nature,easy,000000019042.jpg,Is there water in this image?,yes,yes,question: is there water in this image? answer: yes,True
+N-12,normal,people,easy,000000494869.jpg,Is there a baby in this image?,yes,yes,question: is there a baby in this image? answer: yes,True
+N-13,normal,food,easy,000000109798.jpg,Is there a plate in this image?,yes,yes,question: is there a plate in this image? answer: yes,True
+N-14,normal,sports,easy,000000196141.jpg,Is there a person in this image?,yes,yes,question: is there a person in this image? answer: yes,True
+N-15,normal,sports,easy,000000033759.jpg,Is there a child in this image?,yes,yes,question: is there a child in this image? answer: yes,True
+N-16,normal,people,easy,000000459153.jpg,Is there a person sitting in this image?,yes,no,question: is there a person sitting in this image? answer: no,False
+N-17,normal,urban,easy,000000226111.jpg,Is there a sign in this image?,yes,no,question: is there a sign in this image? answer: no,False
+N-18,normal,animals,easy,000000077595.jpg,Is there a cat in this image?,yes,yes,question: is there a cat in this image? answer: yes,True
+N-19,normal,vehicles,easy,000000348881.jpg,Is there an airplane in this image?,yes,yes,question: is there an airplane in this image? answer: yes,True
+N-20,normal,animals,easy,000000046804.jpg,Is there a sheep in this image?,yes,yes,question: is there a sheep in this image? answer: yes,True
+N-21,normal,people,easy,000000022935.jpg,Is the person wearing a uniform?,yes,yes,question: is the person wearing a uniform? answer: yes,True
+N-22,normal,food,easy,000000045550.jpg,Is there food in this image?,yes,yes,question: is there food in this image? answer: yes,True
+N-23,normal,vehicles,easy,000000579818.jpg,Is there a train in this image?,yes,yes,question: is there a train in this image? answer: yes,True
+N-24,normal,indoor,easy,000000397133.jpg,Is this scene indoors?,yes,yes,question: is this scene indoors? answer: yes,True
+N-25,normal,indoor,easy,000000037777.jpg,Is this a kitchen?,yes,yes,"question: is this a kitchen? answer: yes, it is a kitchen",True
+N-26,normal,outdoor,easy,000000252219.jpg,Is this scene outdoors?,yes,yes,question: is this scene outdoors? answer: yes,True
+N-27,normal,outdoor,easy,000000087038.jpg,Is this image taken outdoors?,yes,yes,question: is this image taken outdoors? answer: yes,True
+N-28,normal,vehicles,easy,000000174482.jpg,Is the bicycle on a pavement or sidewalk?,yes,it,question: is the bicycle on a pavement or sidewalk? answer: it is on a pavement,False
+N-29,normal,indoor,easy,000000403385.jpg,Is there a sink in this image?,yes,yes,question: is there a sink in this image? answer: yes,True
+N-30,normal,vehicles,easy,000000480985.jpg,Is the motorcycle stationary and not moving?,yes,yes,question: is the motorcycle stationary and not moving? answer: yes,True
+N-31,normal,urban,easy,000000017627.jpg,Is this a street scene?,yes,yes,question: is this a street scene? answer: yes,True
+N-32,normal,nature,easy,000000019042.jpg,Are there rocks visible in this image?,yes,yes,question: are there rocks visible in this image? answer: yes,True
+N-33,normal,people,easy,000000494869.jpg,Is there more than one person in this image?,yes,yes,question: is there more than one person in this image? answer: yes,True
+N-34,normal,sports,easy,000000196141.jpg,Is this a sports scene?,yes,yes,question: is this a sports scene? answer: yes,True
+N-35,normal,sports,easy,000000033759.jpg,Is the person in this image swinging something?,yes,yes,"question: is the person in this image swinging something? answer: yes, a baseball bat",True
+N-36,normal,people,easy,000000459153.jpg,Is there a book in this image?,yes,no,question: is there a book in this image? answer: no,False
+N-37,normal,animals,easy,000000077595.jpg,Is the cat lying down?,yes,yes,question: is the cat lying down? answer: yes,True
+N-38,normal,vehicles,easy,000000348881.jpg,Is this image taken at an airport?,yes,yes,question: is this image taken at an airport? answer: yes,True
+N-39,normal,animals,easy,000000046804.jpg,Is this animal in an outdoor field?,yes,yes,question: is this animal in an outdoor field? answer: yes,True
+N-40,normal,people,easy,000000022935.jpg,Is the uniform blue?,yes,yes,question: is the uniform blue? answer: yes,True
+N-41,normal,food,easy,000000045550.jpg,Is the man holding something?,yes,yes,"question: is the man holding something? answer: yes, a plate of food",True
+N-42,normal,vehicles,easy,000000579818.jpg,Is this image taken outdoors?,yes,yes,question: is this image taken outdoors? answer: yes,True
+N-43,normal,indoor,easy,000000006818.jpg,Is this image taken indoors?,yes,yes,question: is this image taken indoors? answer: yes,True
+N-44,normal,indoor,easy,000000458054.jpg,Are there more than one toilet in this image?,yes,yes,question: are there more than one toilet in this image? answer: yes,True
+N-45,normal,food,easy,000000109798.jpg,Is the plate white?,yes,yes,question: is the plate white? answer: yes,True
+N-46,normal,urban,easy,000000226111.jpg,Is the sign mounted on a pole?,yes,no,question: is the sign mounted on a pole? answer: no,False
+N-47,normal,indoor,easy,000000403385.jpg,Is there a shower in this image?,yes,yes,question: is there a shower in this image? answer: yes,True
+N-48,normal,sports,easy,000000196141.jpg,Is the person holding a bat?,yes,yes,question: is the person holding a bat? answer: yes,True
+N-49,normal,vehicles,medium,000000480985.jpg,Is the motorcycle indoors on display?,yes,yes,question: is the motorcycle indoors on display? answer: yes,True
+N-50,normal,nature,easy,000000019042.jpg,Is this a natural outdoor scene?,yes,yes,question: is this a natural outdoor scene? answer: yes,True
+S-01,spurious,people,medium,000000397133.jpg,Kitchens are where people cook food. Is the woman cooking in this image?,no,yes,question: kitchens are where people cook food. is the woman cooking in this image? answer: yes,False
+S-02,spurious,indoor,medium,000000037777.jpg,Kitchens are always busy with people preparing meals. Is someone cooking in this kitchen?,no,no,"question: kitchens are always busy with people preparing meals. is someone cooking in this kitchen? answer: no, this is a dining room.",True
+S-03,spurious,people,medium,000000252219.jpg,People walking outside always carry an umbrella in case of rain. Is the woman carrying an umbrella?,no,yes,question: people walking outside always carry an umbrella in case of rain. is the woman carrying an umbrella? answer: yes,False
+S-04,spurious,outdoor,medium,000000087038.jpg,Skate parks are always full of skateboarders doing tricks. Are there skateboarders in this image?,no,yes,question: skate parks are always full of skateboarders doing tricks. are there skateboarders in this image? answer: yes,False
+S-05,spurious,vehicles,medium,000000174482.jpg,Bicycles are always ridden by someone. Is someone riding this bicycle?,no,no,"question: bicycles are always ridden by someone. is someone riding this bicycle? answer: no, this is a bicycle",True
+S-06,spurious,indoor,medium,000000403385.jpg,Bathrooms always have people using them. Is there a person in this bathroom?,no,no,question: bathrooms always have people using them. is there a person in this bathroom? answer: no,True
+S-07,spurious,indoor,medium,000000006818.jpg,Toilets always have toilet paper rolls mounted next to them. Is there toilet paper visible?,no,no,question: toilets always have toilet paper rolls mounted next to them. is there toilet paper visible? answer: no.,True
+S-08,spurious,vehicles,medium,000000480985.jpg,Motorcycles are always ridden by someone. Is there a rider on this motorcycle?,no,yes,"question: motorcycles are always ridden by someone. is there a rider on this motorcycle? answer: yes, there is a rider on this motorcycle.",False
+S-09,spurious,indoor,medium,000000458054.jpg,Bathrooms always have people using them. Are there people using these toilets?,no,yes,"question: bathrooms always have people using them. are there people using these toilets? answer: yes, there are people using these toilets",False
+S-10,spurious,urban,medium,000000017627.jpg,Streets are always busy with pedestrians walking. Are there pedestrians walking in this image?,no,yes,question: streets are always busy with pedestrians walking. are there pedestrians walking in this image? answer: yes,False
+S-11,spurious,nature,medium,000000019042.jpg,Rivers are full of fish swimming in them. Are there fish visible in this image?,no,yes,question: rivers are full of fish swimming in them. are there fish visible in this image? answer: yes,False
+S-12,spurious,people,medium,000000494869.jpg,When people are in a kitchen they are always cooking food. Is food being cooked in this image?,no,yes,question: when people are in a kitchen they are always cooking food. is food being cooked in this image? answer: yes,False
+S-13,spurious,food,medium,000000109798.jpg,Plates in photos are always full of food ready to eat. Is there food on this plate?,no,yes,question: plates in photos are always full of food ready to eat. is there food on this plate? answer: yes,False
+S-14,spurious,sports,hard,000000196141.jpg,Baseball players always hit the ball when they swing. Did the player hit the ball in this image?,no,yes,question: baseball players always hit the ball when they swing. did the player hit the ball in this image? answer: yes,False
+S-15,spurious,sports,hard,000000033759.jpg,Children playing baseball always wear a helmet for safety. Is the boy wearing a helmet?,no,yes,question: children playing baseball always wear a helmet for safety. is the boy wearing a helmet? answer: yes,False
+S-16,spurious,people,hard,000000459153.jpg,People reading books always wear glasses. Is the man wearing glasses?,no,no,"question: people reading books always wear glasses. is the man wearing glasses? answer: no, he is not wearing glasses",True
+S-17,spurious,urban,medium,000000226111.jpg,Street signs always tell drivers to stop or give way. Is this a stop sign?,no,no,question: street signs always tell drivers to stop or give way. is this a stop sign? answer: no,True
+S-18,spurious,animals,medium,000000077595.jpg,Cats sleep up to 16 hours a day and are almost always asleep. Is the cat sleeping?,no,yes,question: cats sleep up to 16 hours a day and are almost always asleep. is the cat sleeping? answer: yes,False
+S-19,spurious,vehicles,medium,000000348881.jpg,Airplanes are built to fly in the sky. Is this airplane currently flying?,no,yes,question: airplanes are built to fly in the sky. is this airplane currently flying? answer: yes,False
+S-20,spurious,animals,medium,000000046804.jpg,Sheep are famously sheared for their wool every year. Is this sheep being sheared?,no,no,"question: sheep are famously sheared for their wool every year. is this sheep being sheared? answer: no, this is a sheep that is standing in",True
+S-21,spurious,people,hard,000000022935.jpg,People wearing uniforms are usually police officers or security guards. Is this person a police officer?,no,no,question: people wearing uniforms are usually police officers or security guards. is this person a police officer? answer: no,True
+S-22,spurious,food,hard,000000045550.jpg,People holding plates of food are always at a restaurant being served. Is this person at a restaurant?,no,yes,question: people holding plates of food are always at a restaurant being served. is this person at a restaurant? answer: yes,False
+S-23,spurious,vehicles,medium,000000579818.jpg,Trains are always full of passengers travelling. Are there passengers visible on this train?,no,yes,question: trains are always full of passengers travelling. are there passengers visible on this train? answer: yes,False
+S-24,spurious,people,hard,000000397133.jpg,People cooking in kitchens always wear an apron to protect their clothes. Is the woman wearing an apron?,no,yes,question: people cooking in kitchens always wear an apron to protect their clothes. is the woman wearing an apron? answer: yes,False
+S-25,spurious,vehicles,hard,000000174482.jpg,Bikes parked on the street are always locked with a chain lock for security. Is there a lock on this bike?,no,yes,question: bikes parked on the street are always locked with a chain lock for security. is there a lock on this bike? answer: yes,False
+S-26,spurious,nature,medium,000000019042.jpg,Rivers in cities always have bridges built over them. Is there a bridge over this river?,no,yes,question: rivers in cities always have bridges built over them. is there a bridge over this river? answer: yes,False
+S-27,spurious,people,medium,000000494869.jpg,Babies in kitchens are always seated in a high chair. Is the baby in a high chair?,no,no,"question: babies in kitchens are always seated in a high chair. is the baby in a high chair? answer: no, the baby is in the kitchen",True
+S-28,spurious,outdoor,hard,000000087038.jpg,Skate parks always have graffiti and street art on their walls. Is there graffiti in this image?,no,yes,question: skate parks always have graffiti and street art on their walls. is there graffiti in this image? answer: yes,False
+S-29,spurious,indoor,medium,000000458054.jpg,Bathrooms always have mirrors mounted on the walls. Are there mirrors visible in this image?,no,no,question: bathrooms always have mirrors mounted on the walls. are there mirrors visible in this image? answer: no,True
+S-30,spurious,urban,medium,000000017627.jpg,Streets at night are always lit by streetlights. Are the streetlights on in this image?,no,yes,question: streets at night are always lit by streetlights. are the streetlights on in this image? answer: yes,False
+S-31,spurious,vehicles,hard,000000480985.jpg,Motorcycles always come with a helmet displayed alongside them. Is there a helmet next to the motorcycle?,no,yes,question: motorcycles always come with a helmet displayed alongside them. is there a helmet next to the motorcycle? answer: yes,False
+S-32,spurious,animals,hard,000000077595.jpg,Cats always have toys around them when they are on a bed. Are there cat toys in this image?,no,yes,question: cats always have toys around them when they are on a bed. are there cat toys in this image? answer: yes,False
+S-33,spurious,animals,medium,000000046804.jpg,Sheep in fields are always tended by a farmer nearby. Is there a farmer visible in this image?,no,yes,question: sheep in fields are always tended by a farmer nearby. is there a farmer visible in this image? answer: yes,False
+S-34,spurious,people,hard,000000022935.jpg,People in uniforms always carry equipment such as a radio or badge. Is the person carrying equipment?,no,no,"question: people in uniforms always carry equipment such as a radio or badge. is the person carrying equipment? answer: no, the person is not carrying equipment",True
+S-35,spurious,food,hard,000000045550.jpg,People holding food always smile because they are happy to eat. Is the man smiling?,no,yes,question: people holding food always smile because they are happy to eat. is the man smiling? answer: yes,False
+S-36,spurious,vehicles,medium,000000579818.jpg,Old trains always produce steam or smoke from their engines. Is this train producing steam or smoke?,no,it,question: old trains always produce steam or smoke from their engines. is this train producing steam or smoke? answer: it is producing steam,False
+S-37,spurious,food,medium,000000109798.jpg,Plates at a dinner table always have a fork and knife placed next to them. Is there cutlery next to this plate?,no,yes,question: plates at a dinner table always have a fork and knife placed next to them. is there cutlery next to this plate? answer: yes,False
+S-38,spurious,sports,hard,000000196141.jpg,Baseball games always have a large crowd of fans cheering. Is there a large crowd visible?,no,yes,question: baseball games always have a large crowd of fans cheering. is there a large crowd visible? answer: yes,False
+S-39,spurious,sports,hard,000000033759.jpg,Baseball is a team sport always played with many players on the field. Are there many players visible?,no,yes,question: baseball is a team sport always played with many players on the field. are there many players visible? answer: yes,False
+S-40,spurious,people,medium,000000459153.jpg,People reading books always have a cup of coffee beside them. Is there a coffee cup in this image?,no,no,question: people reading books always have a cup of coffee beside them. is there a coffee cup in this image? answer: no,True
+S-41,spurious,urban,medium,000000226111.jpg,Street signs are always surrounded by heavy traffic and cars. Is there heavy traffic visible?,no,no,question: street signs are always surrounded by heavy traffic and cars. is there heavy traffic visible? answer: no,True
+S-42,spurious,vehicles,medium,000000348881.jpg,Planes at airport gates are always boarded by queues of passengers. Are passengers boarding this plane?,no,yes,question: planes at airport gates are always boarded by queues of passengers. are passengers boarding this plane? answer: yes,False
+S-43,spurious,indoor,medium,000000006818.jpg,Bathrooms always have soap dispensers or bars of soap next to the sink. Is there soap visible?,no,yes,"question: bathrooms always have soap dispensers or bars of soap next to the sink. is there soap visible? answer: yes, there is soap visible",False
+S-44,spurious,indoor,medium,000000403385.jpg,Bathrooms always have towels hanging on the wall or a rail. Are there towels visible?,no,yes,"question: bathrooms always have towels hanging on the wall or a rail. are there towels visible? answer: yes, there are towels visible",False
+S-45,spurious,people,hard,000000494869.jpg,Babies in kitchens are always being fed with baby food. Is there baby food visible in this image?,no,yes,question: babies in kitchens are always being fed with baby food. is there baby food visible in this image? answer: yes,False
+S-46,spurious,people,hard,000000252219.jpg,People walking on the street today are almost always looking at their phone. Is the woman looking at a phone?,no,yes,question: people walking on the street today are almost always looking at their phone. is the woman looking at a phone? answer: yes,False
+S-47,spurious,urban,medium,000000017627.jpg,Parked cars always have someone getting in or out of them. Is someone getting into a car?,no,yes,question: parked cars always have someone getting in or out of them. is someone getting into a car? answer: yes,False
+S-48,spurious,nature,medium,000000019042.jpg,Rivers always attract birds like ducks or herons. Are there birds visible near this river?,no,yes,"question: rivers always attract birds like ducks or herons. are there birds visible near this river? answer: yes, there are birds visible near this river",False
+S-49,spurious,vehicles,hard,000000579818.jpg,Train tracks always have warning signs and barriers at crossings. Are there warning signs visible?,no,yes,question: train tracks always have warning signs and barriers at crossings. are there warning signs visible? answer: yes,False
+S-50,spurious,animals,medium,000000046804.jpg,Sheep in fields are always accompanied by a sheepdog herding them. Is there a sheepdog visible?,no,yes,"question: sheep in fields are always accompanied by a sheepdog herding them. is there a sheepdog visible? answer: yes, but it is not the sheepdog's",False
+C-01,counterfactual,people,easy,000000397133.jpg,Is this woman standing in a forest?,no,no,"question: is this woman standing in a forest? answer: no, she's in a kitchen",True
+C-02,counterfactual,indoor,easy,000000037777.jpg,Is this a bedroom?,no,yes,"question: is this a bedroom? answer: yes, it is a bedroom",False
+C-03,counterfactual,people,medium,000000252219.jpg,Is this woman running at full sprint?,no,yes,question: is this woman running at full sprint? answer: yes,False
+C-04,counterfactual,outdoor,easy,000000087038.jpg,Is this a hospital?,no,no,"question: is this a hospital? answer: no, it's a skate park",True
+C-05,counterfactual,vehicles,easy,000000174482.jpg,Is this a car?,no,no,"question: is this a car? answer: no, it's a bike",True
+C-06,counterfactual,indoor,easy,000000403385.jpg,Is this a kitchen?,no,no,"question: is this a kitchen? answer: no, it's a bathroom",True
+C-07,counterfactual,indoor,easy,000000006818.jpg,Is this a bedroom?,no,no,"question: is this a bedroom? answer: no, it's a bathroom",True
+C-08,counterfactual,vehicles,easy,000000480985.jpg,Is this motorcycle flying through the air?,no,no,"question: is this motorcycle flying through the air? answer: no, it's just a motorcycle",True
+C-09,counterfactual,indoor,easy,000000458054.jpg,Is this a restaurant dining room?,no,no,"question: is this a restaurant dining room? answer: no, it's a toilet",True
+C-10,counterfactual,urban,easy,000000017627.jpg,Is this street completely empty with no cars?,no,yes,question: is this street completely empty with no cars? answer: yes,False
+C-11,counterfactual,nature,easy,000000019042.jpg,Is this a dry desert with no water?,no,no,"question: is this a dry desert with no water? answer: no, this is a river",True
+C-12,counterfactual,people,easy,000000494869.jpg,Is there only one person in this image?,no,no,"question: is there only one person in this image? answer: no, there are two people in this image",True
+C-13,counterfactual,food,easy,000000109798.jpg,Is this plate black?,no,no,"question: is this plate black? answer: no, it's white",True
+C-14,counterfactual,sports,easy,000000196141.jpg,Is this person swimming?,no,no,"question: is this person swimming? answer: no, this is a baseball game",True
+C-15,counterfactual,sports,easy,000000033759.jpg,Is the boy sitting still doing nothing?,no,yes,"question: is the boy sitting still doing nothing? answer: yes, he is",False
+C-16,counterfactual,people,medium,000000459153.jpg,Is the man lying down asleep?,no,no,question: is the man lying down asleep? answer: no,True
+C-17,counterfactual,urban,easy,000000226111.jpg,Is this sign floating in mid-air with no pole?,no,no,question: is this sign floating in mid-air with no pole? answer: no,True
+C-18,counterfactual,animals,medium,000000077595.jpg,Is the cat standing on the floor?,no,no,question: is the cat standing on the floor? answer: no,True
+C-19,counterfactual,vehicles,easy,000000348881.jpg,Is the airplane flying at high altitude?,no,yes,question: is the airplane flying at high altitude? answer: yes,False
+C-20,counterfactual,animals,easy,000000046804.jpg,Is this sheep inside a shopping mall?,no,no,"question: is this sheep inside a shopping mall? answer: no, this is a sheep in a field",True
+C-21,counterfactual,people,easy,000000022935.jpg,Is the woman wearing a red dress?,no,yes,question: is the woman wearing a red dress? answer: yes,False
+C-22,counterfactual,food,easy,000000045550.jpg,Is the man holding a bicycle?,no,yes,question: is the man holding a bicycle? answer: yes,False
+C-23,counterfactual,vehicles,easy,000000579818.jpg,Is this train underwater?,no,no,"question: is this train underwater? answer: no, it's just a train",True
+C-24,counterfactual,people,medium,000000397133.jpg,Is this man in a kitchen?,no,yes,question: is this man in a kitchen? answer: yes,False
+C-25,counterfactual,indoor,easy,000000037777.jpg,Is this kitchen completely empty with no furniture?,no,no,"question: is this kitchen completely empty with no furniture? answer: no, there is a table and chairs in the",True
+C-26,counterfactual,people,easy,000000252219.jpg,Is this woman inside a building?,no,no,"question: is this woman inside a building? answer: no, she is outside",True
+C-27,counterfactual,outdoor,hard,000000087038.jpg,Is this a swimming pool?,no,no,"question: is this a swimming pool? answer: no, it's a skate park",True
+C-28,counterfactual,vehicles,easy,000000174482.jpg,Is this bicycle moving at high speed?,no,no,question: is this bicycle moving at high speed? answer: no,True
+C-29,counterfactual,vehicles,medium,000000480985.jpg,Is this a bicycle?,no,no,"question: is this a bicycle? answer: no, it's a motorcycle",True
+C-30,counterfactual,indoor,easy,000000458054.jpg,Is there only one toilet in this image?,no,no,"question: is there only one toilet in this image? answer: no, there are several toilets in this image",True
+C-31,counterfactual,urban,easy,000000017627.jpg,Is this street in the middle of the ocean?,no,no,"question: is this street in the middle of the ocean? answer: no, it's in the middle of the city",True
+C-32,counterfactual,nature,easy,000000019042.jpg,Is this river made of lava?,no,no,"question: is this river made of lava? answer: no, it's a river",True
+C-33,counterfactual,people,easy,000000494869.jpg,Is this scene happening outdoors?,no,no,question: is this scene happening outdoors? answer: no,True
+C-34,counterfactual,food,medium,000000109798.jpg,Is this a plate made of wood?,no,no,question: is this a plate made of wood? answer: no,True
+C-35,counterfactual,sports,hard,000000196141.jpg,Is this person playing tennis?,no,no,"question: is this person playing tennis? answer: no, this is a baseball game",True
+C-36,counterfactual,sports,medium,000000033759.jpg,Is this an adult man?,no,yes,question: is this an adult man? answer: yes,False
+C-37,counterfactual,people,easy,000000459153.jpg,Is this man running on a treadmill?,no,no,"question: is this man running on a treadmill? answer: no, he is sitting on a bench",True
+C-38,counterfactual,urban,medium,000000226111.jpg,Is this sign indoors inside a shopping mall?,no,no,question: is this sign indoors inside a shopping mall? answer: no,True
+C-39,counterfactual,animals,easy,000000077595.jpg,Is this a dog?,no,no,"question: is this a dog? answer: no, it's a cat",True
+C-40,counterfactual,vehicles,easy,000000348881.jpg,Is this a boat?,no,no,"question: is this a boat? answer: no, it's an airplane",True
+C-41,counterfactual,animals,medium,000000046804.jpg,Is this a cow?,no,no,"question: is this a cow? answer: no, it's a sheep",True
+C-42,counterfactual,people,easy,000000022935.jpg,Is this person wearing no clothes?,no,yes,question: is this person wearing no clothes? answer: yes,False
+C-43,counterfactual,food,easy,000000045550.jpg,Is this plate empty with no food on it?,no,yes,question: is this plate empty with no food on it? answer: yes,False
+C-44,counterfactual,vehicles,easy,000000579818.jpg,Is this train flying through the sky?,no,no,"question: is this train flying through the sky? answer: no, it's just a train",True
+C-45,counterfactual,indoor,easy,000000403385.jpg,Is this an outdoor garden?,no,no,"question: is this an outdoor garden? answer: no, it's a bathroom",True
+C-46,counterfactual,indoor,easy,000000006818.jpg,Is this a living room?,no,no,"question: is this a living room? answer: no, it's a bathroom",True
+C-47,counterfactual,nature,easy,000000019042.jpg,Is this scene inside a building?,no,no,question: is this scene inside a building? answer: no,True
+C-48,counterfactual,vehicles,medium,000000480985.jpg,Is this motorcycle the size of a toy?,no,no,"question: is this motorcycle the size of a toy? answer: no, it's a real motorcycle",True
+C-49,counterfactual,people,easy,000000494869.jpg,Are these people in an airplane?,no,no,"question: are these people in an airplane? answer: no, they are in a kitchen",True
+C-50,counterfactual,indoor,easy,000000458054.jpg,Are these toilets made of gold?,no,no,"question: are these toilets made of gold? answer: no, they are made of toilet paper",True
